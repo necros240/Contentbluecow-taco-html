@@ -1,0 +1,26 @@
+
+.image-taco {
+    background-color: burlywood
+}
+
+main {
+    background-color: burlywood;
+    color: darkred;
+    font-weight: 900;
+    
+}
+
+.cont-form {
+    border: 2px solid black;
+}
+.cont-form {
+    background-image: url('/img/Old\ Phone\ PNG\ Transparent\,\ Old\ Phone\,\ Phone\ Clipart\,\ Old\ Telephone\ PNG\ Image\ For\ Free\ Download.jpg');
+    background-size: cover;
+    background-position-x: center;
+    width: 600px;
+    max-width: 60%;
+    height: 600px;
+}
+
+
+

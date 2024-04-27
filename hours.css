@@ -1,0 +1,30 @@
+main {
+    display: grid;
+    box-sizing: border-box;
+    border: 2px solid black;
+    color: gold;
+    font-weight: 900;
+    background-image: url('/img/istockphoto-1341635109-1024x1024.jpg') ;
+    background-size: cover;
+    text-shadow: 4px 4px 10px #000;
+}
+.image-taco {
+    background-color: rgb(212, 182, 7);
+}
+
+
+.open7 {
+    background-color: hsla(0, 0%, 0%, 0.644);
+}
+.gold {
+    background-color: hsla(0, 0%, 0%, 0.719);
+}
+
+article {
+    display: block;
+    
+}
+
+.gold-link .gold {
+    color: gold;
+}
